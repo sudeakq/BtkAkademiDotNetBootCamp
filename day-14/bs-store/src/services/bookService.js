@@ -23,5 +23,5 @@ class BookService {
     const url = `${this.baseUrl}/${id}`;
     return await axios.delete(url).then((resp) => resp);
   }
-}
+} 
 export default BookService;
