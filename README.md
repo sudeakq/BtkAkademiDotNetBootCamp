@@ -1,10 +1,12 @@
-#BtkAkademiDotNetBootCamp Projesi
-Bu proje, BTK Akademi tarafından düzenlenen .NET Bootcamp eğitimi kapsamında verilen ödevlerin çözümlerini içermektedir. Bu ödevler, .NET Core ve ASP.NET Core teknolojileri kullanılarak geliştirilmiştir.
+# BtkAkademiDotNetBootCamp Projesi
 
-###Projenin Yapısı
+<h6>Bu proje, BTK Akademi tarafından düzenlenen .NET Bootcamp eğitimi kapsamında verilen ödevlerin çözümlerini içermektedir. Bu ödevler, .NET Core ve ASP.NET Core teknolojileri kullanılarak geliştirilmiştir.
+</h6>
+### Projenin Yapısı
 Proje, her bir ödevin ayrı ayrı klasörlerde saklandığı bir yapıya sahiptir. Her ödev klasörü içerisinde, o ödevin çözümüne yönelik bir ASP.NET Core projesi bulunmaktadır. Ayrıca her bir ödev klasörü içerisinde, o ödevin açıklamasının yer aldığı bir README.md dosyası da bulunmaktadır.
 
-###Ödevler
+### Ödevler
+
 Bu proje içerisinde, BTK Akademi tarafından verilen .NET Bootcamp eğitimi ödevlerinin çözümleri yer almaktadır. Bu ödevler aşağıdaki gibidir:
 
 Ödev 1: Console Uygulaması Geliştirme
@@ -17,13 +19,15 @@ Bu proje içerisinde, BTK Akademi tarafından verilen .NET Bootcamp eğitimi öd
 Ödev 8: Generic yapılar
 Her bir ödevin ayrıntılı açıklamaları, o ödevin klasörü içerisindeki README.md dosyasında yer almaktadır.
 
-###Gereksinimler
+### Gereksinimler
+
 Bu projeyi çalıştırmak için aşağıdaki gereksinimlerin sağlanması gerekmektedir:
 
 .NET Core SDK 3.1 veya daha yeni bir sürümü
 Visual Studio 2019 veya daha yeni bir sürümü
 
-###Nasıl Çalıştırılır?
+### Nasıl Çalıştırılır?
+
 Projenin çalıştırılması için aşağıdaki adımlar izlenmelidir:
 
 Projeyi bilgisayarınıza kopyalayın.
